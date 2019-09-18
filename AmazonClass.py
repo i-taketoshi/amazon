@@ -32,25 +32,25 @@ class AmazonOrigin:
         #self.searchMethod = "word"
         self.country = "JP"
         '''
-        self.ACCESS_KEY = "AKIAIVNSYSDOII5JOAEA"
-        self.SECRET_ACCESS_KEY = "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"
-        self.ASSOCIATE_TAG = "tsunotsuki-22"
+        self.ACCESS_KEY = "hogehoge"
+        self.SECRET_ACCESS_KEY = "hogehoge"
+        self.ASSOCIATE_TAG = "hogehoge"
         
         
-        self.ACCESS_KEY = "AKIAIZ57MAOLLMWZZBAQ"
-        self.SECRET_ACCESS_KEY = "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"
-        self.ASSOCIATE_TAG = "take"
+        self.ACCESS_KEY = "hogehoge"
+        self.SECRET_ACCESS_KEY = "hogehoge"
+        self.ASSOCIATE_TAG = "hogehoge"
         
-        self.ACCESS_KEY = "AKIAJX7TZ7O4YLOTUCAQ"
-        self.SECRET_ACCESS_KEY = "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"
-        self.ASSOCIATE_TAG = "take0a-20"
+        self.ACCESS_KEY = "hogehoge"
+        self.SECRET_ACCESS_KEY = "hogehoge"
+        self.ASSOCIATE_TAG = "hogehoge"
         
         
         '''
         
-        self.ACCESS_KEY = "AKIAI5YMAQGGHZ4KOZ2A"
-        self.SECRET_ACCESS_KEY = "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"
-        self.ASSOCIATE_TAG = "take0e-22"
+        self.ACCESS_KEY = "hogehoge"
+        self.SECRET_ACCESS_KEY = "hogehoge"
+        self.ASSOCIATE_TAG = "hogehoge"
 
 
 
